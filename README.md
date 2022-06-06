@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sajadrmg
 - 👀 Interested in programming and software development and computer graphics
 - 🌱 I’m currently learning c#,UML ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ There Is Nothing special about me, Nice, I just have a lot of interest in computers
+- , and I like to learn and share my information with others.
 - 📫 sajadrmg@gmail.com
 
 <!---
